@@ -1,0 +1,5 @@
+requests>=2.31,<3
+python-dotenv>=1.0,<2
+beautifulsoup4>=4.12,<5
+yfinance>=0.2.60,<1
+pytest>=8,<10
